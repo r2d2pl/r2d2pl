@@ -1,3 +1,5 @@
+## :capricorn: Aye ...
+R2D2 stands for Second Generation Robotic Droid Series-2
 ## :smirk: Skills:
 
 <p align="center">
