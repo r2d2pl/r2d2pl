@@ -1,4 +1,4 @@
-## Aye 
+## :sunglasses: Skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
