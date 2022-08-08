@@ -1,4 +1,10 @@
-### Hi there 👋
+### Aye 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <!--
 **r2d2pl/r2d2pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
