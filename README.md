@@ -4,7 +4,7 @@ R2D2 stands for Second Generation Robotic Droid Series-2
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vim,regex,html,css,ansible,py,git,github,gitlab,md,docker,kubernetes,prometheus,grafana,vscode,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,regex,html,css,ansible,py,git,github,gitlab,md,docker,kubernetes,prometheus,grafana,vscode,azure,gcp,elk" />
   </a>
 </p>
 
