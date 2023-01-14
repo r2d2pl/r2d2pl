@@ -8,6 +8,11 @@ R2D2 stands for Second Generation Robotic Droid Series-2
   </a>
 </p>
 
+- 🔭 I’m currently working on installing and configuring a full Rancher environment stack and integrating with a VMware infrastructure provider
+
+![rancher-logo](https://user-images.githubusercontent.com/38051959/212468633-98f6ebdb-4651-43c5-96a2-0e5f711546d3.png)
+
+
 <!--
 **r2d2pl/r2d2pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
