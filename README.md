@@ -9,6 +9,7 @@ R2D2 stands for Second Generation Robotic Droid Series-2
 </p>
 
 - 🔭 I’m currently working on configuring the full Rancher environment stack and its integration with the VMware infrastructure provider :godmode:
+
 ![rancher-logo-horiz-color](https://user-images.githubusercontent.com/38051959/212468779-5f07bded-c310-488f-a56e-7ad222508a7b.png)
 
 <!--
